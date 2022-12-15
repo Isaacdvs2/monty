@@ -1,5 +1,5 @@
-#ifndef MONTY_H
-#define MONTY_H
+#ifndef MAIN_H
+#define MAIN_H
 
 /* Library inclusions */
 #include <stdio.h>
@@ -119,4 +119,4 @@ void divop(stack_t **stack, unsigned int nline);
 void mulop(stack_t **stack, unsigned int nline);
 void modop(stack_t **stack, unsigned int nline);
 
-#endif /* MONTY_H */
+#endif /* MAIN_H */
